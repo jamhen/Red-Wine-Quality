@@ -36,10 +36,15 @@ RedWineQuality.ipynb: this notebook file contains  markdown of cells and code ce
 To complete the project, CRISP-DM has been used. The different processes are as below.
 
 > Business understanding
+
 > Data Understanding
+
 > Preparing Data
+
 > Analysis/Modeling
+
 > Validation
+
 > [Deployment](https://medium.com/@jamal.henani/red-wine-quality-947e3e3c275b)
 
 ## Project Motivation
