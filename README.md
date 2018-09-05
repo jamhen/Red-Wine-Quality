@@ -35,12 +35,12 @@ RedWineQuality.ipynb: this notebook file contains  markdown of cells and code ce
 
 To complete the project, CRISP-DM has been used. The different processes are as below.
 
-Business understanding
-Data Understanding
-Preparing Data
-Analysis/Modeling
-Validation
-[Deployment](https://medium.com/@jamal.henani/red-wine-quality-947e3e3c275b)
+> Business understanding
+> Data Understanding
+> Preparing Data
+> Analysis/Modeling
+> Validation
+> [Deployment](https://medium.com/@jamal.henani/red-wine-quality-947e3e3c275b)
 
 ## Project Motivation
 Obviously there’s a lot that goes into making great wines. If there were a way to track the world’s most popular drink, wine would certainly be right up there on the list. I'm curious about the factt that wine is so popular, but yet defining its quality is so complicated, even with the chemical components of red wine. As if that is not all, consumers have diverse views on the issue of high quality wine. This has left me with no choice than asking a few business questions, which are answerable using the red wine data set.
