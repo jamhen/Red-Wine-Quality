@@ -49,9 +49,7 @@ Obviously there’s a lot that goes into making great wines. If there were a way
 - How accurate is it to determine the quality of red wine from its chemical components?
 
 ## Findings:
-
-It was found out that; 
-* While quality of red wine is very important and should be considered both bey the companies or consumers, we have how ever discover that;
+While quality of red wine is very important and should be considered both by the companies or consumers, we have how ever discover that;
 * More acid and less chlorides are needed for high quality red wines.
 * A highly alcoholic wine means high quality.
 * It’s possible to determine the red quality from it’s chemical constituents, but only with 74% accuracy
